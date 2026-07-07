@@ -18,9 +18,9 @@
 
 - 完整的 TeX 发行版（推荐 [TeX Live](https://tug.org/texlive/) 2024 或更新版本，也支持 [MiKTeX](https://miktex.org/)）
 - 已安装 `ebgaramond` 字体包（TeX Live 中通常位于 `texlive-fonts-extra` 内）
-- **必须使用 LuaLaTeX 编译**（因项目依赖 `fontspec` 调用系统字体）
+- **必须使用 LuaLaTeX 或 XeLaTeX 编译**（因项目依赖 `fontspec` 调用系统字体）
 
-**编译步骤：**
+**编译步骤（以 LuaLaTeX 为例）：**
 
 1. 克隆仓库
 ```bash
