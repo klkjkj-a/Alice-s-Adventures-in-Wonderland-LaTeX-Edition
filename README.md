@@ -22,29 +22,29 @@ The design focuses on a clean, traditional book layout, offering both a pleasant
 
 1. Clone the repository
 
-    ```bash
-    git clone https://github.com/your-username/alice-latex.git
-    cd alice-latex
-    ```
+```bash
+git clone https://github.com/your-username/alice-latex.git
+cd alice-latex
+```
 
 2. Compile with LuaLaTeX
 
-    ```bash
-    lualatex alice.tex
-    ```
+```bash
+lualatex alice.tex
+```
 
 Important: To generate the table of contents and all cross‑references correctly, you must compile at least twice. For example:
 
-    ```bash
-    lualatex alice.tex
-    lualatex alice.tex
-    ```
+```bash
+lualatex alice.tex
+lualatex alice.tex
+```
 
 Or use latexmk for automatic cycles:
 
-    ```bash
-    latexmk -lualatex alice.tex
-    ```
+```bash
+latexmk -lualatex alice.tex
+```
 
 The final PDF is `alice_in_wonderland.pdf`.
 
@@ -52,18 +52,18 @@ A `Makefile` is also provided for convenience; simply run `make`.
 
 ## Repository Structure
 
-    ```text
-    .
-    ├── alice_in_wonderland.aux
-    ├── alice_in_wonderland.log
-    ├── alice_in_wonderland.pdf                # Main document
-    ├── alice_in_wonderland.synctex.gz
-    ├── alice_in_wonderland.tex                # Final PDF
-    ├── alice_in_wonderland.toc
-    ├── LICENSE                                # CC BY‑SA 4.0
-    ├── README-CN.md
-    └── README.md
-    ```
+```text
+.
+├── alice_in_wonderland.aux
+├── alice_in_wonderland.log
+├── alice_in_wonderland.pdf                # Main document
+├── alice_in_wonderland.synctex.gz
+├── alice_in_wonderland.tex                # Final PDF
+├── alice_in_wonderland.toc
+├── LICENSE                                # CC BY‑SA 4.0
+├── README-CN.md
+└── README.md
+```
 
 No image files are included – the project is entirely text‑based LaTeX code.
 
