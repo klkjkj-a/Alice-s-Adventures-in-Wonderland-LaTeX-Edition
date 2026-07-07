@@ -16,9 +16,9 @@ The design focuses on a clean book layout, offering both a pleasant on‑screen 
 
 - The `ebgaramond` package (typically part of texlive-fonts-extra in TeX Live)
 
-- **Compilation must be done with LuaLaTeX (required for fontspec and proper font handling)**
+- **Compilation must be done with LuaLaTeX or XeLaTeX (required for fontspec and proper font handling)**
 
-**Build instructions:**
+**Build instructions (take LuaLaTeX as an instance):**
 
 1. Clone the repository
 
