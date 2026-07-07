@@ -86,4 +86,6 @@ No image files are included – the project is entirely text‑based LaTeX code.
 
 - Typeface: EB Garamond by Georg Mayr-Duffner & Octavio Pardo
 
+---
+
 > “We’re all mad here.” — Cheshire Cat
