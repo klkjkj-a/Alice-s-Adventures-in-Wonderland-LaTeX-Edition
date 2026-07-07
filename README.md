@@ -6,7 +6,7 @@
 
 This repository contains the complete LaTeX source code for a refined typesetting of Lewis Carroll’s Alice’s Adventures in Wonderland. The entire book is set in **EB Garamond**, a graceful revival of the historic Garamond typeface. **It is a text‑only edition with no illustrations.**
 
-The design focuses on a clean, traditional book layout, offering both a pleasant on‑screen reading experience and a high‑quality printed output.
+The design focuses on a clean book layout, offering both a pleasant on‑screen reading experience and a high‑quality printed output.
 
 ## How to Build
 
