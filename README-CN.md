@@ -71,7 +71,7 @@ latexmk -lualatex alice.tex
 - 原始英文文本：公共领域（Public Domain），刘易斯·卡罗尔于 1865 年出版。
 
 - LaTeX 排版代码（包括 `.tex`、`.cls`、样式文件等）：
-[Creative Commons 署名-相同方式共享 4.0 国际（CC BY‑SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)
+[Creative Commons 署名—相同方式共享 4.0 国际（CC BY‑SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)
 
 - [EB Garamond](https://github.com/georgd/EB-Garamond) 字体：以 [SIL Open Font License](https://openfontlicense.org/open-font-license-official-text/) 1.1 发布。
 
