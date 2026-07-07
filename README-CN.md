@@ -23,46 +23,46 @@
 **编译步骤：**
 
 1. 克隆仓库
-    ```bash
-    git clone https://github.com/your-username/alice-latex.git
-    cd alice-latex
-    ```
+```bash
+git clone https://github.com/your-username/alice-latex.git
+cd alice-latex
+```
 2. 使用 LuaLaTeX 编译主文件
 
-    ```bash
-    lualatex alice.tex
-    ```
+```bash
+lualatex alice.tex
+```
 
 重要提示：LaTeX 需要解析目录、页码和交叉引用，请至少连续编译两次，才能生成正确的目录与书签。例如：
 
-    ```bash
-    lualatex alice.tex
-    lualatex alice.tex
-    ```
+```bash
+lualatex alice.tex
+lualatex alice.tex
+```
 
 或使用自动化工具一次性完成：
 
-    ```bash
-    latexmk -lualatex alice.tex
-    ```
+```bash
+latexmk -lualatex alice.tex
+```
 
 编译成功后，主 PDF 文件为 `alice_in_wonderland.pdf`。
 亦可使用仓库中附带的 `Makefile` 执行 `make` 自动编译。
 
 ## 项目结构
 
-    ```text
-    .
-    ├── alice_in_wonderland.aux
-    ├── alice_in_wonderland.log
-    ├── alice_in_wonderland.pdf                # 主PDF
-    ├── alice_in_wonderland.synctex.gz
-    ├── alice_in_wonderland.tex                # 主文档
-    ├── alice_in_wonderland.toc
-    ├── LICENSE                                # CC BY‑SA 4.0
-    ├── README-CN.md
-    └── README.md
-    ```
+```text
+.
+├── alice_in_wonderland.aux
+├── alice_in_wonderland.log
+├── alice_in_wonderland.pdf                # 主PDF
+├── alice_in_wonderland.synctex.gz
+├── alice_in_wonderland.tex                # 主文档
+├── alice_in_wonderland.toc
+├── LICENSE                                # CC BY‑SA 4.0
+├── README-CN.md
+└── README.md
+```
 
 项目不含插图，所有文件为纯文本 LaTeX 源码。
 
