@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{CHAPTER I. Down the Rabbit-Hole}{1}{}%
+\contentsline {chapter}{CHAPTER II. The Pool of Tears}{9}{}%
+\contentsline {chapter}{CHAPTER III. A Caucus-Race and a Long Tale}{17}{}%
+\contentsline {chapter}{CHAPTER IV. The Rabbit Sends in a Little Bill}{25}{}%
+\contentsline {chapter}{CHAPTER V. Advice from a Caterpillar}{35}{}%
+\contentsline {chapter}{CHAPTER VI. Pig and Pepper}{43}{}%
+\contentsline {chapter}{CHAPTER VII. A Mad Tea-Party}{53}{}%
+\contentsline {chapter}{CHAPTER VIII. The Queen's Croquet-Ground}{63}{}%
+\contentsline {chapter}{CHAPTER IX. The Mock Turtle's Story}{73}{}%
+\contentsline {chapter}{CHAPTER X. The Lobster Quadrille}{83}{}%
+\contentsline {chapter}{CHAPTER XI. Who Stole the Tarts?}{93}{}%
+\contentsline {chapter}{CHAPTER XII. Alice's Evidence}{101}{}%
