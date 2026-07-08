@@ -56,9 +56,9 @@ A `Makefile` is also provided for convenience; simply run `make`.
 .
 ├── alice_in_wonderland.aux
 ├── alice_in_wonderland.log
-├── alice_in_wonderland.pdf                # Main document
+├── alice_in_wonderland.pdf                # Final PDF
 ├── alice_in_wonderland.synctex.gz
-├── alice_in_wonderland.tex                # Final PDF
+├── alice_in_wonderland.tex                # Main document
 ├── alice_in_wonderland.toc
 ├── LICENSE                                # CC BY‑SA 4.0
 ├── README-CN.md
