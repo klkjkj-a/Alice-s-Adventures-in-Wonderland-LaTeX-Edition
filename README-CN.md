@@ -55,6 +55,7 @@ latexmk -lualatex alice.tex
 .
 ├── alice_in_wonderland.aux
 ├── alice_in_wonderland.log
+├── alice_in_wonderland.out
 ├── alice_in_wonderland.pdf                # 主PDF
 ├── alice_in_wonderland.synctex.gz
 ├── alice_in_wonderland.tex                # 主文档
